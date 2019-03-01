@@ -677,3 +677,5 @@ Sample Output:
 The given strings is: sweettoastbuttertoast
 The new string is: butter
  
+ 
+ from a page by www.w3resource.com
